@@ -1,0 +1,15 @@
+This is the example template file. 
+
+The script will work with any files which are plain text (.txt, .csv, .html, .py etc.) {{exampleVariable}}
+
+This is what you entered as your name: {{name}}
+
+This is what you said was your favourite colour: {{colour}}
+
+The variables can be repeated as many time as you like. They will always be replaced with the value of the answer
+
+{{exampleVariable}}, {{name}}, {{colour}}
+
+{{name}}, {{colour}}, {{name}}
+
+Hopefully now you will have a better understanding of this script {{name}}.
